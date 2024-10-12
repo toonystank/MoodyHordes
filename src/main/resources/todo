@@ -1,0 +1,13 @@
+Moody Hordes Plugin
+
+What the plugin will do: Have multiple groups of 5-7 custom horde mobs spawn within a area of the map(Regions) and have them spawn every hour.
+
+Feature's I want implemented:
+1. Having either a in-game gui for the mob editor or a panel config where I can change what mob they are, what armor they are wearing, also what weapons they have.
+2. Having a tier based hordes, such as the ones you did for my spawner plugin.
+3. Having a custom reward dropping mechanic.
+4. Have it announce when a horde has spawned, and when they have all been defeated.
+5. Make a custom Item that spawns the hordes, It can be called like a flare, or like a horde spawner. and also have it spawn which ever tier of horde. by having multiple different hordes
+6. Have a chance based system that one of the hordes will spawn.
+
+Tiers: Basic Horde, Advanced Horde, Extreme Horde, Divine Horde

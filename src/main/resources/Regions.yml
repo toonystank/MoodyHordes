@@ -1,0 +1,13 @@
+Regions:
+  #Region name here that is used in tier file
+  spawn:
+    #Region display name to be used in future
+    name: "Spawn"
+    #Region description to be used in future
+    description: "The spawn region"
+    # The world where the region is located
+    world: "world"
+    # the worldGuard region name to be used,
+    # This region must be created in above world
+    worldGuardRegion: "spawn"
+

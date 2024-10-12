@@ -1,0 +1,17 @@
+items:
+  Basic_sword:
+    type: WOODEN_SWORD
+    modelData: 0
+    name: "&cBasic Sword"
+    lore:
+      - "&7A basic sword"
+      - "&7that can be used"
+      - "&7to defend yourself"
+      - "&7against the undead"
+      - "&7"
+      - "This is multiple supported"
+    enchantments:
+      sharpness: 1
+    hideEnchants: true
+    hideAttributes: true
+    dropChance: 100
