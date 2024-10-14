@@ -11,6 +11,7 @@ public class MoodySkeleton extends MoodyMob<Skeleton> {
 
 
     public MoodySkeleton( ServerLevel world, MobData mobData) {
-        super(EntityType.SKELETON, new Skeleton(EntityType.SKELETON,world), world, mobData);
+        super(new Skeleton(EntityType.SKELETON,world), world, mobData);
     }
+
 }

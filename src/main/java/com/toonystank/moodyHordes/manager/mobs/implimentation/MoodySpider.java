@@ -10,6 +10,6 @@ import net.minecraft.world.entity.monster.Spider;
 public class MoodySpider extends MoodyMob<Spider> {
 
     public MoodySpider(ServerLevel world, MobData mobData) {
-        super(EntityType.SPIDER, new Spider(EntityType.SPIDER,world), world, mobData);
+        super(new Spider(EntityType.SPIDER,world), world, mobData);
     }
 }
